@@ -1,6 +1,6 @@
 # Hi! I'm Ioan
 
-Currently, I am an Assistant Professor (Non-tenured Assistant Professor) - Researcher in the field of Electrical and Electronic Measurements and Instrumentation (EEMI), with Department of Engineering, [University of SANNIO](https://www.unisannio.it/), Italy.
+Currently, I am an Assistant Professor (Non-tenured Assistant Professor) - Researcher in the field of Electrical and Electronic Measurements ([EEM](https://en.wikipedia.org/wiki/Electrical_measurements)), with Department of Engineering, [University of SANNIO](https://www.unisannio.it/), Italy.
 
 About me...
 - He received the B.Eng. degree in 2008, the M.Eng. degree in 2009, and the Ph.D. degree in 2011, all in Electrical Engineering, from the ["Gheorghe Asachi" Technical University of Iasi (TUIASI)](https://www.tuiasi.ro/?lang=en), [Faculty of Electrical Engineering, Energetics and Applied Informatics](https://ieeia.tuiasi.ro/), Romania.
@@ -19,7 +19,7 @@ About me...
   - digital signal processors (DSPs) systems, and 
   - Hardware Security for Internet-of-Things (IoT) systems.
 
-Here you can find out more [about me](https://ioantudosa.net/cv.html), [my research activities](https://ioantudosa.net/research.html), [publications](https://ioantudosa.net/publications.html), and [open-source projects](https://giuseppesilano.net/software.html).
+Here you can find out more [about me](https://ioantudosa.net/cv.html), [my research activities](https://ioantudosa.net/research.html), [publications](https://ioantudosa.net/publications.html), and [open-source projects](https://ioantudosa.net/software.html).
 
 Here is the link to my [latest news](https://ioantudosa.net/highlights.html)
 
