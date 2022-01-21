@@ -1,6 +1,6 @@
 # Hi! I'm Ioan
 
-Currently, I am an Assistant Professor in the field of Electrical and Electronic Measurements and Instrumentation, with Department of Engineering, [University of SANNIO](https://www.unisannio.it/), Italy.
+Currently, I am an Assistant Professor (Non-tenured Assistant Professor) and Researcher in the field of Electrical and Electronic Measurements and Instrumentation, with Department of Engineering, [University of SANNIO](https://www.unisannio.it/), Italy.
 
 About me...
 - He received the B.Eng. degree in 2008, the M.Eng. degree in 2009, and the Ph.D. degree in 2011, all in Electrical Engineering, from the ["Gheorghe Asachi" Technical University of Iasi (TUIASI)](https://www.tuiasi.ro/?lang=en), [Faculty of Electrical Engineering, Energetics and Applied Informatics](https://ieeia.tuiasi.ro/), Romania.
