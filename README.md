@@ -27,3 +27,10 @@ If you'd like to get in touch with me, you can reach me at <ioan.tudosa@gmail.co
 
 ## Find me around the web: <a href="https://ioantudosa.net/cv.html">
   
+<p align="center">
+<img height="auto" width="55%" src ="https://github-readme-stats.vercel.app/api?username=itudosa&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
+<img height="auto" width="43%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itudosa&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+<img src ="https://github-readme-streak-stats.herokuapp.com?user=itudosa&theme=dark&hide_border=true&background=FFFFFF00">
+</p>
+
+Credit: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
